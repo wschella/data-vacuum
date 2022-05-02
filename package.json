@@ -1,0 +1,18 @@
+{
+  "name": "data-vacuum",
+  "version": "1.0.0",
+  "description": "Vacuum all your personal data from everywhere.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/wschella/data-vacuum",
+  "author": "Wout Schellaert <wout.schellaert@gmail.com>, Robbe Van Herck <robbevanherck1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/local-auth": "^1.0.1",
+    "@types/node": "^17.0.31",
+    "googleapis": "^100.0.0",
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.7.0"
+  }
+}
